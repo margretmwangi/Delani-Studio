@@ -9,11 +9,11 @@ body{
 /*--LANDING PAGE STYING--*/
 #hero {
     height: 150vh;
-    background-image: url(../IP3/assets/backgrounds/h_img.jpg);
+    background-image: url(../images/assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
-    color: #ffffff;
+    color: white;
   }
 .contents {
     margin-top: 10%;
@@ -89,7 +89,7 @@ body{
   #services {
     height: auto;
     position: cover;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../IP3/assets/backgrounds/c_image.jpg) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(..IP3/assets/backgrounds/c_image.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -103,7 +103,7 @@ body{
   }
   #services h1::after {
     content: '';
-    background: #fff;
+    background:white;
     display: block;
     height: 2px;
     width: 10%;
@@ -264,7 +264,7 @@ body{
     display: none;
   }
   .work1 {
-      background-image: url(../IP3/assets/portfolio/work1.jpg);
+      background-image: url(../images/assets/portfolio/work1.jpg);
       background-repeat: no-repeat;
       background-position: center;
       -webkit-background-size: cover;
@@ -274,7 +274,7 @@ body{
 
   }
   .work2 { 
-    background-image: url(../IP3/assets/portfolio/work2.jpg);
+    background-image: url(../images/assets/portfolio/work2.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -284,7 +284,7 @@ body{
    
   }
   .work3 {
-    background-image: url(../IP3/assets/portfolio/work3.jpg);
+    background-image: url(../images/assets/portfolio/work3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -294,7 +294,7 @@ body{
   }
    
   .work4 {
-    background-image: url(../IP3/assets/portfolio/work4.jpg);
+    background-image: url(../images/assets/portfolio/work4.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -303,7 +303,7 @@ body{
   background-size: cover;
   }
   .work5 {
-    background-image: url(../IP3/assets/portfolio/work5.jpg);
+    background-image: url(../images/assets/portfolio/work5.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -312,7 +312,7 @@ body{
   background-size: cover;
   }
   .work6 {
-    background-image: url(../IP3/assets/portfolio/work6.jpg);
+    background-image: url(../images/assets/portfolio/work6.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -321,7 +321,7 @@ body{
   background-size: cover;
   }
   .work7 {
-    background-image: url(../IP3/assets/portfolio/work7.jpg);
+    background-image: url(../images/assets/portfolio/work7.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -330,7 +330,7 @@ body{
   background-size: cover;
   }
   .work8 {
-    background-image: url(../IP3/assets/portfolio/work8.jpg);
+    background-image: url(../images/assets/portfolio/work8.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
