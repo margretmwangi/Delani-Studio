@@ -89,7 +89,7 @@ body{
   #services {
     height: auto;
     position: cover;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(..IP3/assets/backgrounds/c_image.jpg) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/assets/backgrounds/s_image.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
