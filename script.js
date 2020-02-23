@@ -32,12 +32,12 @@ $(document).ready(function() {
         $(".details1").toggle(500);
       });
       $(".second").click(function() {
-        $(". further illustration2").toggle(500);
-        $(".more details2").toggle(500);
+        $(".illustration2").toggle(500);
+        $(".details2").toggle(500);
       });
       $(".third").click(function() {
-        $(". further illustration3").toggle(500);
-        $(".more details3").toggle(500);
+        $(".illustration3").toggle(500);
+        $(".details3").toggle(500);
       });
     //Scroll to 'About Section' feature on mouse click
     $(function() {

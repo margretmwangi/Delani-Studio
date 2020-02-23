@@ -36,7 +36,7 @@ body{
     padding-bottom: 0;
   }
   .mouse {
-    position: absolute;
+    margin-top: 600px;
     bottom: 0;
   }
   @media screen and (max-width: 601px) {
@@ -474,3 +474,4 @@ body{
   .flickr {
     background-color: skyblue;
   }
+  
