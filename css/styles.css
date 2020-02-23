@@ -13,7 +13,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     text-align: center;
-    color: #ffffff;
+    color: white;
   }
 .contents {
     margin-top: 10%;
@@ -46,7 +46,7 @@ body{
     .line-two {
       padding-bottom: 5px;
     }
-    .site-description {
+    .Delani-description {
       font-size: 14px;
     }
     #hero h1 {
@@ -103,7 +103,7 @@ body{
   }
   #services h1::after {
     content: '';
-    background: #fff;
+    background:white;
     display: block;
     height: 2px;
     width: 10%;
@@ -474,3 +474,4 @@ body{
   .flickr {
     background-color: skyblue;
   }
+  
