@@ -474,4 +474,12 @@ body{
   .flickr {
     background-color: skyblue;
   }
-  
+.details1{
+  display: none;
+}
+.details2{
+  display: none;
+}
+.details3{
+  display: none;
+}
