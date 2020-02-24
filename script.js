@@ -28,16 +28,16 @@ $(document).ready(function() {
     });
       //What we do description toggle
       $(".first").click(function() {
-        $(".illustration1").toggle(500);
-        $(".details1").toggle(500);
+        $(".illustration1").toggle();
+        $(".details1").toggle();
       });
       $(".second").click(function() {
-        $(".illustration2").toggle(500);
-        $(".details2").toggle(500);
+        $(".illustration2").toggle();
+        $(".details2").toggle();
       });
       $(".third").click(function() {
-        $(".illustration3").toggle(500);
-        $(".details3").toggle(500);
+        $(".illustration3").toggle();
+        $(".details3").toggle();
       });
     //Scroll to 'About Section' feature on mouse click
     $(function() {
